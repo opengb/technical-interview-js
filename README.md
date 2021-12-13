@@ -49,7 +49,7 @@ The following solutions to GRIB-1234 are proposed by two junior developers worki
 > *Solution B*
 >
 > Every time a property is created or deactivated in GRIB, write an event to a Kafka topic.
-> Implement a billing service that reads all the events from the Kafak topic to keep a running total of the number of active properties per customer.
+> Implement a billing service that reads all the events from the Kafka topic to keep a running total of the number of active properties per customer.
 > The billing service can then be queried once per month in order to determine the number of active properties per cluster.
 > A second service could be implemented to query the billing service once per month in order to create a report and email it to Overt's billing department.
 
