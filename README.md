@@ -64,8 +64,7 @@ The relevant portions of video submissions should not exceed 15 minutes in lengt
 
 ## Question 3: Code review
 
-The file src/core.js contains an implementation of the top-k problem.
-The algorithm is intended to provide an approximate count of the _k_ most frequent elements in a stream of unbounded length in a fixed memory footprint.
+The file src/validation.js contains logic to collect and validate some data via a Node command-line application.
 Please review the code in this file for correctness and style.
 Approach the review as though this code was written by a junior developer near the beginning of their career as a proof of concept for a service that we intened to eventually provide to customers in production.
 
