@@ -50,7 +50,6 @@ function main() {
     }
   }
 
-  // Poorly written complex control flow
   if (validationErrors.length >= 2) {
     console.log("Multiple errors detected. Please correct the following:");
     for (let i = 0; i < validationErrors.length; i++) {
