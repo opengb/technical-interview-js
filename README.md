@@ -2,7 +2,7 @@
 
 Thank you for your interest in OPEN technologies.
 
-This technical challenge is intended to assess your abilities to gather functional requirements, assess propsed designs, and perform coding tasks in a situation similar to one you may encounter while working for OPEN.
+This technical challenge is intended to assess your abilities to gather functional requirements, assess proposed designs, and perform coding tasks in a situation similar to one you may encounter while working for OPEN.
 There are three questions in the technical assessment, and we intend that they should take about two hours in total to complete.
 This will be followed by an interview which will take about one hour during which you will have the opportunity to discuss your answers and receive feedback.
 
