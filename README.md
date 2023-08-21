@@ -15,7 +15,7 @@ If you would like to deliver your code review in the form of a GitHub pull reque
 
 ## Question 1: Requirements gathering
 
-Imagine you work at a company called Overt Technologies which probides a building emissions benchmarking product called GRIB.
+Imagine you work at a company called Overt Technologies which provides a building emissions benchmarking product called GRIB.
 GRIB is used to track utility bills and other data related to the energy efficiency of the building.
 Users of GRIB pay a tiered subscription fee based on their service level, plus a premium on top of this based on the number of properties that they are tracking in the system.
 
